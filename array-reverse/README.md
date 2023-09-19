@@ -2,7 +2,7 @@
 ## Reverse An Array
 
 ## Whiteboard Process
-<!-- Embedded whiteboard image -->
+![Reverse An Array]('images/array-reverse.png')
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
