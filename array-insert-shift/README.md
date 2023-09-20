@@ -1,6 +1,6 @@
 # Challenge Title
 ## Insert and shift array in middle at index
-> This coding challenge is to create a function called reverseArray which takes an array as an argument. This function cannot use built-in methods. This function will return an array with elements in reversed order.
+> This coding challenge is to create a function called insertShiftArray which takes an array and a value as arguments. This function cannot use built-in methods. This function will return an array with the new value added at the middle index.
 
 ### Whiteboard Process
 ![Insert and shift array in middle at index](../images/array-reverse.png)
