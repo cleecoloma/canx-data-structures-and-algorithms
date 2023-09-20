@@ -6,6 +6,7 @@
 | Code Challenge | Description |
 | -------------- |  -------------- |
 | [Class-01](./array-reverse/README.md) | Reverse an array |
+| [Class-02](./array-insert-shift/README.md) | Insert and shift array in middle at index |
 
 ---
 
