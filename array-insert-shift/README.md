@@ -3,11 +3,11 @@
 > This coding challenge is to create a function called insertShiftArray which takes an array and a value as arguments. This function cannot use built-in methods. This function will return an array with the new value added at the middle index.
 
 ### Whiteboard Process
-![Insert and shift array in middle at index](../images/array-reverse.png)
+![Insert and shift array in middle at index](../images/array-insert-shift.png)
 
 ### Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
-> I utilized a for loop that iterated the input array at a descending order starting with the input array length minus 1 as the starting index. The element in this input array was then push inside an empty array until the starting index is equal to 0. This function will return an array in reversed order.
+> I utilized two for loops for this function. The first loop iterated from 0 to just before the middle number - array.length/2. Push the value. Then the second for loop iterated from middle number to just before array.length. This function will return an array that insert a value in the middle of the array.
 > The space complexity is O(n) and time complexity is O(n).
 
 ### Solution
